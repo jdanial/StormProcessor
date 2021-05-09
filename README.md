@@ -1,5 +1,5 @@
 # StormProcessor
-This is a faster implementation of DeepSinse. Download the files `neuralNetwork.mat` and `stormProcessing` as well as the `Particle Fitter` and `Drift Correction` folders in a folder of your choice and run `stormProcessing`.
+This is a faster implementation of [DeepSinse](https://github.com/jdanial/DeepSinse). Download the files `neuralNetwork.mat` and `stormProcessing` as well as the `Particle Fitter` and `Drift Correction` folders in a folder of your choice and run `stormProcessing`.
 ## Dependencies
 StormProcessor is dependent on the Redundant Cross-Correlation (RCC) algorithm (https://github.com/yinawang28/RCC) and Cpufit (https://github.com/gpufit/Gpufit). The relevant files from these 2 dependencies are included. 
 ## References
